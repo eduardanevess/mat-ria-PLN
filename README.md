@@ -1,3 +1,5 @@
+Nome: Eduarda Neves Damasceno Silva 6º DSM
+
 🎯 Objetivo do Repositório
 
 Este repositório foi criado para armazenar os códigos desenvolvidos durante as aulas do professor Rodolfo Lovera. 
