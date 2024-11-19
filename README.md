@@ -1,12 +1,15 @@
 🎯 Objetivo do Repositório
 
-Este repositório foi criado para armazenar os códigos desenvolvidos durante as aulas do professor Rodolfo Lovera. Todos os arquivos estão disponíveis de forma simples e prática para consulta e execução.
+Este repositório foi criado para armazenar os códigos desenvolvidos durante as aulas do professor Rodolfo Lovera. 
+
+Todos os arquivos estão disponíveis de forma simples e prática para consulta e execução.
 
 🛠️ Como Utilizar
 
 Encontre o arquivo da aula que deseja revisar.
 
 Abra o arquivo diretamente no Google Colab para facilitar sua execução e edição.
+
 📚 Estrutura do Repositório
 
 Os arquivos estão organizados por nome e identificam claramente o conteúdo de cada aula.
